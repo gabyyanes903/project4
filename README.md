@@ -33,6 +33,8 @@ Here's a walkthrough of implemented required features:
 
 <img src='walkthrough4.gif' title='Video Walkthrough' width='1492' alt='Video Walkthrough' />
 
+<img src='walkthrough5.gif' title='Video Walkthrough' width='1489' alt='Video Walkthrough' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
 
